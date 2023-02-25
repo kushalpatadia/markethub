@@ -1,0 +1,6 @@
+<link href="{SITE_CSS}image_crop_css/cropper.css" rel="stylesheet" type="text/css"/>
+<link href="{SITE_CSS}image_crop_css/main.css" rel="stylesheet" type="text/css"/>
+
+<script type="text/javascript" src="{SITE_JS}image_crop/cropper.js"></script>
+<script type="text/javascript" src="{SITE_JS}image_crop/tooltip.min.js"></script>
+<script type="text/javascript" src="{SITE_JS}image_crop/main.js"></script>

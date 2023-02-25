@@ -1,0 +1,1 @@
+<li class="%active%"><a href="{SITE_ADM_MOD}%menulink%"><svg class="glyph stroked %icon-class%"><use xlink:href="%icon-use%"></use></svg>%menu-title%</a></li>

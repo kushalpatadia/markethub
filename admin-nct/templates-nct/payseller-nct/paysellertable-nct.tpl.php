@@ -1,0 +1,9 @@
+ <tr>
+    <td>%orderid%</td>
+    <td>%selleremail%</td>
+    <td>%product%</td>
+    <td>%price%</td>
+    <td>%qty%</td>
+    <td>%status%</td>
+    <td>%purchase_date%</td>
+</tr>

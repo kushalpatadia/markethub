@@ -1,0 +1,1 @@
+<div class="social-btn sb-two"><a href="%signinwithgoogle%"><i>Sign In with Google</i></a></div>
